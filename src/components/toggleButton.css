@@ -1,0 +1,5 @@
+.toggle {
+    border: 5px var(--border-style) var(--main-font-color);
+    background-color: var(--main-bg-color);
+    color: var(--main-font-color);
+}
